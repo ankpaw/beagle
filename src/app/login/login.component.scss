@@ -1,15 +1,16 @@
 @import "../public/styles.scss";
 
-.login-wrapper{
-    width:500px;
-    margin: 0 auto;
-    background-color: $gray;
-    padding: 15px;
-    .welcomeText{
-        margin-left: 0.4em;
-    }
-    .secondaryWelcomeText{
-        font-weight: $font-weight-light;
-        margin-left: 0.4em;
-    }
+.login-wrapper {
+  width: 500px;
+  margin: 0 auto;
+  background-color: $gray;
+  padding: 15px;
+  margin-top: 5%;
+  .welcomeText {
+    margin-left: 0.4em;
+  }
+  .secondaryWelcomeText {
+    font-weight: $font-weight-light;
+    margin-left: 0.4em;
+  }
 }
